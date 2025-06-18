@@ -14,6 +14,8 @@ My journey into tech began with a deep curiosity for mobile phones, and over the
 I'm currently learning into agenic AI, and it's impact on projects.
 
 Connect with me on: 
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-das24/)
 
 
