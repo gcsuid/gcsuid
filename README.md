@@ -1,7 +1,7 @@
 
 ### 👋 Hey there! I'm Ayush
 
-I'm a Computer Science student from the serene temple city of Bhubaneswar, currently in my final year of B.Tech. My name, which means *long life* or *vitality* in Sanskrit, reflects the value I aim to bring wherever I go.
+I'm a Computer Science student from the serene temple city of Bhubaneswar, currently in my final year of B.Tech. 
 
 My journey into tech began with a deep curiosity for mobile phones, and over the years, it has evolved into a passion for solving real-world problems through software. I’ve led my college’s largest tech society, played drums for live crowds, and written for one of India’s top tech media houses — blending technology, communication, and leadership into everything I do.
 
@@ -10,6 +10,8 @@ My journey into tech began with a deep curiosity for mobile phones, and over the
 🔍 I have a sharp eye for detail, love understanding people, and naturally empathize — which helps me build tech solutions that are not just functional, but meaningful. Whether leading teams at IoT Lab and Enactus or freelancing with tight client deadlines, I’ve always focused on impact.
 
 🧠 My superpower? Adapting fast and turning chaos into opportunity. I thrive in unfamiliar environments and love working with people by recognizing their strengths and helping teams collaborate smoothly.
+
+My interests include Military History, Music, Movies and books.
 
 I'm currently learning into agenic AI, and it's impact on projects.
 
