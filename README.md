@@ -15,6 +15,7 @@ My interests include Military History, Music, Movies and books.
 
 Currently learning:
 SpringBoot: https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue
+
 AI: https://github.com/microsoft/AI-For-Beginners
 
 Connect with me on: 
