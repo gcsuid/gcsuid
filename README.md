@@ -13,7 +13,9 @@ My journey into tech began with a deep curiosity for mobile phones, and over the
 
 My interests include Military History, Music, Movies and books.
 
-I'm currently learning into agenic AI, and it's impact on projects.
+Currently learning:
+SpringBoot: https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue
+AI: https://github.com/microsoft/AI-For-Beginners
 
 Connect with me on: 
 
