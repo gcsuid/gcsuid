@@ -1,29 +1,61 @@
+# 👋 Hi, I'm Ayush
 
-### 👋 Hey there! I'm Ayush
+> **Final Year CS Student | Python Developer | Tech Leader | Problem Solver**
 
-I'm a Computer Science student from the serene temple city of Bhubaneswar, currently in my final year of B.Tech. 
+I'm passionate about building software that solves real problems. My journey started with curiosity about mobile phones and evolved into leading tech societies, freelancing on data-intensive projects, and continuously learning new technologies.
 
-My journey into tech began with a deep curiosity for mobile phones, and over the years, it has evolved into a passion for solving real-world problems through software. I’ve led my college’s largest tech society, played drums for live crowds, and written for one of India’s top tech media houses — blending technology, communication, and leadership into everything I do.
+---
 
-💡 I'm proficient in Python and have hands-on experience working with data scraping and analysis. One of my notable freelance projects involved scraping and processing over 500K SEC tax records using Python and delivering insights via Excel for clients.
+## 🚀 What I Do
 
-🔍 I have a sharp eye for detail, love understanding people, and naturally empathize — which helps me build tech solutions that are not just functional, but meaningful. Whether leading teams at IoT Lab and Enactus or freelancing with tight client deadlines, I’ve always focused on impact.
+- **Data Engineering:** Built pipelines processing 500K+ SEC records, delivering actionable insights
+- **AI/ML Development:** Creating intelligent applications with LangChain, GPT APIs, and NLP
+- **Leadership:** Led 100+ member tech society at IoT Lab KIIT | National Cup Winner at Enactus
+- **Freelancing:** Delivered data scraping & analysis projects with tight client deadlines
 
-🧠 My superpower? Adapting fast and turning chaos into opportunity. I thrive in unfamiliar environments and love working with people by recognizing their strengths and helping teams collaborate smoothly.
+---
 
-My interests include Military History, Music, Movies and books.
+## 🛠️ Tech Stack
 
-Currently learning:
+**Languages:** Python • SQL • Java • Bash  
+**Data & AI:** Pandas • NumPy • PySpark • LangChain • FAISS • Streamlit  
+**Cloud & Tools:** AWS • Docker • Git • Tableau • Excel  
+**Databases:** MySQL • Oracle
 
-SpringBoot: https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue
+---
 
-AI: https://github.com/microsoft/AI-For-Beginners
+## 📌 Featured Projects
 
-Connect with me on: 
+### [SEC EDGAR Data Pipeline](https://github.com/gcsuid/Random-waffle)
+Automated ETL pipeline extracting 10+ years of financial data with 60% efficiency improvement  
+`Python` `Selenium` `Data Processing` `Automation`
 
+### [AI Document Q&A System](https://github.com/gcsuid/chatpdf)
+Generative AI application using GPT-4 API and LangChain for intelligent document retrieval  
+`Python` `LangChain` `FAISS` `Streamlit` `NLP`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-das24/)
+---
 
+## 🌱 Currently Learning
 
+- **Spring Boot:** [Full Stack Development](https://www.youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue)
+- **AI Fundamentals:** [Microsoft AI For Beginners](https://github.com/microsoft/AI-For-Beginners)
 
-Let's build something impactful together! 🚀
+---
+
+## 💡 Beyond Code
+
+🥁 Drummer | 📚 Military History Enthusiast | 🎬 Movie & Book Lover  
+✍️ Former Writer at India's Top Tech Media House
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-das24/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gcsuid)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dasayush483@gmail.com)
+
+---
+
+**"Turning chaos into opportunity, one line of code at a time."** 🚀
